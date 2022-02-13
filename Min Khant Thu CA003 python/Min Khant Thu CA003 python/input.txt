@@ -1,0 +1,5 @@
+
+1. Location - living room, Type of anomaly - fire hazard, Level of risk - high, Demographic - 28-2-21 (23:45)
+2. Location - living room, Type of anomaly - fire hazard, Level of risk - none, Demographic - 15-7-21 (10:59)
+3. Location - bedroom, Type of anomaly - electricity outage, Level of risk - low, Demographic - 23-7-21 (15:23)
+4. Location - bathroom, Type of anomaly - physical hazard, Level of risk - low, Demographic - 23-5-21 (23:59)
